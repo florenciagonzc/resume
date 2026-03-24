@@ -61,6 +61,7 @@ h2 {
     display: flex;
     justify-content: space-between;
     font-weight: bold;
+    gap: 10px; /*added now*/
 }
 
 .job-title {
